@@ -65,3 +65,9 @@ If you have this utility in a folder called `../retcon-utils` relative to the `s
 - [Z88DK](https://z88dk.org/site/) - toolchain including C compiler and linker targeting SMS amongst other platforms
 - [Aseprite](https://www.aseprite.org/) - nice little sprite / pixel art tool
 - [Adobe Photoshop](https://www.adobe.com/uk/products/photoshop.html) - for all the heavy lifting before getting things into Aseprite
+
+## Cartridge case cover
+
+
+![cover](segle-cover.png)
+
