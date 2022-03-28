@@ -66,8 +66,14 @@ If you have this utility in a folder called `../retcon-utils` relative to the `s
 - [Aseprite](https://www.aseprite.org/) - nice little sprite / pixel art tool
 - [Adobe Photoshop](https://www.adobe.com/uk/products/photoshop.html) - for all the heavy lifting before getting things into Aseprite
 
+## Video
+
+Recorded and uploaded by the wonderful folks at [SMSPower!](https://www.smspower.org/) as a submission to their 2022 Coding Challenge:
+
+https://www.youtube.com/watch?v=X5dyiZn3YA8&amp;t=7s
+
 ## Cartridge case cover
 
+This is designed to fit a standard Master System cartridge case and can be printed out with dimensions 270mm x 172mm to fit.
 
 ![cover](segle-cover.png)
-
